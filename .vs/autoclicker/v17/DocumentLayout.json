@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manny\\Documents\\Programming\\autoclicker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66DB87C1-2E4F-4EF2-B00F-9470CC84021B}|autoclicker\\autoclicker.csproj|c:\\users\\manny\\documents\\programming\\autoclicker\\autoclicker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DB87C1-2E4F-4EF2-B00F-9470CC84021B}|autoclicker\\autoclicker.csproj|solutionrelative:autoclicker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DB87C1-2E4F-4EF2-B00F-9470CC84021B}|autoclicker\\autoclicker.csproj|c:\\users\\manny\\documents\\programming\\autoclicker\\autoclicker\\autoclicker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66DB87C1-2E4F-4EF2-B00F-9470CC84021B}|autoclicker\\autoclicker.csproj|solutionrelative:autoclicker\\autoclicker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DB87C1-2E4F-4EF2-B00F-9470CC84021B}|autoclicker\\autoclicker.csproj|c:\\users\\manny\\documents\\programming\\autoclicker\\autoclicker\\autoclicker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{66DB87C1-2E4F-4EF2-B00F-9470CC84021B}|autoclicker\\autoclicker.csproj|solutionrelative:autoclicker\\autoclicker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{75d09b86-471e-4b30-8720-362d13ad0a45}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "autoclicker",
+              "DocumentMoniker": "C:\\Users\\manny\\Documents\\Programming\\autoclicker\\autoclicker\\autoclicker.csproj",
+              "RelativeDocumentMoniker": "autoclicker\\autoclicker.csproj",
+              "ToolTip": "C:\\Users\\manny\\Documents\\Programming\\autoclicker\\autoclicker\\autoclicker.csproj",
+              "RelativeToolTip": "autoclicker\\autoclicker.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T21:26:40.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "autoclicker.csproj",
+              "DocumentMoniker": "C:\\Users\\manny\\Documents\\Programming\\autoclicker\\autoclicker\\autoclicker.csproj",
+              "RelativeDocumentMoniker": "autoclicker\\autoclicker.csproj",
+              "ToolTip": "C:\\Users\\manny\\Documents\\Programming\\autoclicker\\autoclicker\\autoclicker.csproj",
+              "RelativeToolTip": "autoclicker\\autoclicker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T21:22:30.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manny\\Documents\\Programming\\autoclicker\\autoclicker\\Program.cs",
+              "RelativeDocumentMoniker": "autoclicker\\Program.cs",
+              "ToolTip": "C:\\Users\\manny\\Documents\\Programming\\autoclicker\\autoclicker\\Program.cs",
+              "RelativeToolTip": "autoclicker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:56:36.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 199,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
